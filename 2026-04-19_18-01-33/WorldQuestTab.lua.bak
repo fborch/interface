@@ -1,0 +1,39 @@
+
+BWQDB = {
+["char"] = {
+["Sedore - Draenor"] = {
+["activeProfile"] = 0,
+},
+["Cooriam - Draenor"] = {
+["activeProfile"] = 0,
+},
+["Abaray - Draenor"] = {
+["activeProfile"] = 0,
+},
+},
+["global"] = {
+["versionCheck"] = 120010,
+["profiles"] = {
+[0] = {
+["name"] = "Default",
+["colors"] = {
+},
+["list"] = {
+},
+["external"] = {
+},
+["pin"] = {
+},
+["general"] = {
+},
+["filters"] = {
+},
+},
+},
+},
+["profileKeys"] = {
+["Sedore - Draenor"] = "Default",
+["Cooriam - Draenor"] = "Default",
+["Abaray - Draenor"] = "Default",
+},
+}

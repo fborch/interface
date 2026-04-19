@@ -1,0 +1,42 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["lock"] = false,
+["hide"] = false,
+},
+}
+RaiderIO_LastCharacter = "eu-Abaray-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Yójímbó-draenor"] = true,
+["eu-party2-draenor"] = true,
+["eu-Bówjobs-draenor"] = true,
+["eu-Mayouka-draenor"] = true,
+["eu-Aiqi-draenor"] = true,
+["eu-Misskickz-draenor"] = true,
+["eu-Plaguedots-draenor"] = true,
+["eu-Hanxi-draenor"] = true,
+["eu-Jordxdd-tarren-mill"] = true,
+["eu-Älvariss-draenor"] = true,
+["eu-Ekrings-draenor"] = true,
+["eu-Berrex-draenor"] = true,
+["eu-Ayakashì-draenor"] = true,
+["eu-Korwanâ-blackhand"] = true,
+["eu-Crimdudu-draenor"] = true,
+["eu-Piando-draenor"] = true,
+["eu-Koníu-draenor"] = true,
+["eu-Abaray-draenor"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}
