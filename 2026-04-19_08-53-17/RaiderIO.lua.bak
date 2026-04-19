@@ -1,0 +1,53 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["lock"] = false,
+["hide"] = false,
+},
+}
+RaiderIO_LastCharacter = "eu-Abaray-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Roknar-malorne"] = true,
+["eu-Doomsteak-kazzak"] = true,
+["eu-Ojúquélag-sanguino"] = true,
+["eu-Bæzt-draenor"] = true,
+["eu-Мистермораль-howling-fjord"] = true,
+["eu-Kadnory-dalvengyr"] = true,
+["eu-Кьювик-howling-fjord"] = true,
+["eu-Dreamrender-ragnaros"] = true,
+["eu-Celesty-frostwhisper"] = true,
+["eu-Glau-shattered-hand"] = true,
+["eu-Lilysia-argent-dawn"] = true,
+["eu-Frøkenz-stormrage"] = true,
+["eu-Гевея-howling-fjord"] = true,
+["eu-Indigowhite-ysondre"] = true,
+["eu-Brutain-ragnaros"] = true,
+["eu-Zardrea-dentarg"] = true,
+["eu-Asai-frostwolf"] = true,
+["eu-Lohkur-blackrock"] = true,
+["eu-Enkefixned-festung-der-stürme"] = true,
+["eu-Sulkrumn-drakthul"] = true,
+["eu-Lyndrielle-frostwolf"] = true,
+["eu-Rhuuark-stormrage"] = true,
+["eu-Garion-thunderhorn"] = true,
+["eu-Abaray-draenor"] = true,
+["eu-Möpmöp-vashj"] = true,
+["eu-Swinxzie-draenor"] = true,
+["eu-Stormsen-tarren-mill"] = true,
+["eu-Voidjunky-draenor"] = true,
+["eu-Inamoira-draenor"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}
