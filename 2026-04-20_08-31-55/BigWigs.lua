@@ -1,0 +1,137 @@
+
+BigWigs3DB = {
+["profileKeys"] = {
+["Decoran - Draenor"] = "Default",
+["Gembank - Stormrage"] = "Default",
+["Corwing - Draenor"] = "Default",
+["Coorlan - Draenor"] = "Default",
+["Abaray - Draenor"] = "Default",
+["Corra - Draenor"] = "Default",
+["Sedore - Draenor"] = "Default",
+["Cooriam - Draenor"] = "Default",
+["Corpy - Draenor"] = "Default",
+},
+["namespaces"] = {
+["BigWigs_Plugins_PrivateAuras"] = {
+["global"] = {
+["showHelpTip"] = false,
+},
+},
+["BigWigs_Plugins_Timeline"] = {
+["profiles"] = {
+["Default"] = {
+["oneTimeTimelineDisable"] = true,
+},
+},
+},
+["BigWigs_Plugins_BossBlock"] = {
+["global"] = {
+["tableNeedsCopied"] = false,
+},
+},
+["BigWigs_Bosses_Nullaeus"] = {
+["profiles"] = {
+["Default"] = {
+["adds"] = 0,
+[1256518] = 0,
+[1280086] = 3064567,
+[1280087] = 0,
+[1280088] = 0,
+[1256045] = 0,
+[1256526] = 0,
+[1256167] = 0,
+[1256366] = 0,
+},
+},
+},
+["MythicPlus"] = {
+["profiles"] = {
+["Default"] = {
+["showViewerDungeonEnd"] = false,
+},
+},
+},
+},
+["myKeystones"] = {
+["Player-1403-0AF8D36C"] = {
+["playerRating"] = 493,
+["specId"] = 105,
+["keyMap"] = 161,
+["name"] = "Abaray",
+["keyLevel"] = 3,
+["realm"] = "Draenor",
+},
+["Player-1403-0AF6E911"] = {
+["playerRating"] = 0,
+["specId"] = 254,
+["keyMap"] = 0,
+["name"] = "Corra",
+["keyLevel"] = 0,
+["realm"] = "Draenor",
+},
+["Player-1403-0AD4DC55"] = {
+["playerRating"] = 2803,
+["specId"] = 268,
+["keyMap"] = 560,
+["name"] = "Cooriam",
+["keyLevel"] = 12,
+["realm"] = "Draenor",
+},
+["Player-1403-0AF8D385"] = {
+["playerRating"] = 0,
+["specId"] = 256,
+["keyMap"] = 0,
+["name"] = "Sedore",
+["keyLevel"] = 0,
+["realm"] = "Draenor",
+},
+["Player-1403-0ADB8461"] = {
+["playerRating"] = 0,
+["specId"] = 73,
+["keyMap"] = 0,
+["name"] = "Coorlan",
+["keyLevel"] = 0,
+["realm"] = "Draenor",
+},
+["Player-1403-0B409D12"] = {
+["playerRating"] = 0,
+["specId"] = 0,
+["keyMap"] = 0,
+["name"] = "Corwing",
+["keyLevel"] = 0,
+["realm"] = "Draenor",
+},
+["Player-1403-0B3FD2BA"] = {
+["playerRating"] = 0,
+["specId"] = 266,
+["keyMap"] = 0,
+["name"] = "Decoran",
+["keyLevel"] = 0,
+["realm"] = "Draenor",
+},
+},
+["prevWeeklyReset"] = 1776225600,
+["profiles"] = {
+["Default"] = {
+},
+},
+}
+BigWigsIconDB = {
+}
+BigWigsStatsDB = {
+[2966] = {
+[-3372] = {
+["solotier11"] = {
+["kills"] = 1,
+["fkDuration"] = 628.5110000000004,
+["wipes"] = 5,
+["fkWipes"] = 5,
+["best"] = 628.5110000000004,
+["bestDate"] = "2026/04/10",
+["fkDate"] = "2026/04/10",
+},
+},
+},
+}
+BW_FEAT_SHARE = nil
+BW_FEAT_SHARE2 = nil
