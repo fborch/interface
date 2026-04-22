@@ -1,0 +1,31 @@
+
+RaiderIO_Config = {
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+}
+RaiderIO_LastCharacter = "eu-Abaray-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Abäddön-aggra-português"] = true,
+["eu-Abaray-draenor"] = true,
+["eu-Treeshot-aggra-português"] = true,
+["eu-Shulian-kazzak"] = true,
+["eu-Poziomkowa-shadowsong"] = true,
+["eu-Serapha-draenor"] = true,
+["eu-Leaveghost-draenor"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}

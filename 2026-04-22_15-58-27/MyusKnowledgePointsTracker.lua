@@ -1,0 +1,26 @@
+
+MKPT_Config = {
+["char"] = {
+["Cooriam - Draenor"] = {
+["state"] = {
+["show"] = false,
+},
+},
+},
+["profileKeys"] = {
+["Sedore - Draenor"] = "Sedore - Draenor",
+["Gembank - Stormrage"] = "Gembank - Stormrage",
+["Corwing - Draenor"] = "Corwing - Draenor",
+["Coorlan - Draenor"] = "Coorlan - Draenor",
+["Corzos - Draenor"] = "Corzos - Draenor",
+["Abaray - Draenor"] = "Abaray - Draenor",
+["Corzumo - Draenor"] = "Corzumo - Draenor",
+["Corzumo - Stormrage"] = "Corzumo - Stormrage",
+["Corra - Draenor"] = "Corra - Draenor",
+["Unlockit - Draenor"] = "Unlockit - Draenor",
+["Corry - Draenor"] = "Corry - Draenor",
+["Decoran - Draenor"] = "Decoran - Draenor",
+["Cooriam - Draenor"] = "Cooriam - Draenor",
+["Nothree - Draenor"] = "Nothree - Draenor",
+},
+}
