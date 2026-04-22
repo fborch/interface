@@ -1,0 +1,62 @@
+
+Kong_Profiles = {
+["cooriam_of_draenor"] = {
+["version"] = "1.6a",
+["Groups"] = {
+},
+["Frames"] = {
+{
+{
+["Condition"] = {
+["name"] = "Condition",
+["Parameters"] = {
+{
+["name"] = "Frame has Mouse Focus",
+["Parameters"] = {
+},
+},
+},
+},
+},
+{
+["Condition"] = {
+["name"] = "Condition",
+["Parameters"] = {
+{
+["name"] = "Unit in Combat",
+["Parameters"] = {
+},
+},
+},
+},
+},
+{
+["Condition"] = {
+["name"] = "Condition",
+["Parameters"] = {
+{
+["name"] = "Unit in Instance",
+["Parameters"] = {
+{
+["name"] = "Dungeon",
+["Parameters"] = {
+},
+},
+},
+},
+},
+},
+},
+["TriggerDefaults"] = {
+["secondsTillOut"] = 0,
+["alphaOut"] = 0,
+["secondsIn"] = 0,
+["alphaIn"] = 1,
+["secondsOut"] = 0,
+},
+["version"] = "1.6a",
+["index"] = "[\"ClassUIEnhanced_PrimaryResources_Container\"]",
+},
+},
+},
+}
