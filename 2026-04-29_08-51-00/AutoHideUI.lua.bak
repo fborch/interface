@@ -1,0 +1,162 @@
+
+AutoHideUIDB = {
+["profileKeys"] = {
+["Cooriam - Draenor"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+{
+["config"] = {
+["customFrames"] = "DandersFramesContainer, ",
+},
+["conditions"] = {
+["mounted"] = {
+["enabled"] = true,
+["alpha"] = 0,
+},
+["resting"] = {
+["enabled"] = true,
+},
+["flying"] = {
+["enabled"] = true,
+["alpha"] = 0,
+},
+["housing"] = {
+["enabled"] = true,
+},
+["casting"] = {
+["enabled"] = false,
+},
+},
+["frames"] = {
+["DebuffFrame"] = true,
+["FocusFrame"] = true,
+["BuffFrame"] = true,
+["MainStatusTrackingBarContainer"] = true,
+["MicroMenu"] = true,
+["PartyFrame"] = true,
+},
+},
+{
+["config"] = {
+["enabled"] = true,
+["forceAlpha"] = true,
+["idleAlpha"] = 0,
+["fadeOutDelay"] = 0,
+["normalAlphaPref"] = 1,
+["fadeInDelay"] = 0,
+["prioAlphaPref"] = 1,
+["timeToFade"] = 0.15,
+["customFrames"] = "UUF_Player",
+},
+["name"] = "Unhalted",
+["conditions"] = {
+["targetHostile"] = {
+["enabled"] = true,
+["priority"] = false,
+["alpha"] = 1,
+["softTarget"] = false,
+},
+["combat"] = {
+["enabled"] = true,
+["priority"] = false,
+["alpha"] = 1,
+},
+["instance"] = {
+["enabled"] = true,
+["priority"] = true,
+["alpha"] = 0,
+},
+["mouseover"] = {
+["enabled"] = true,
+["priority"] = false,
+["alpha"] = 1,
+["trigger"] = 1,
+},
+["mounted"] = {
+["enabled"] = true,
+["druidForms"] = 1,
+["alpha"] = 0,
+["priority"] = false,
+},
+["flying"] = {
+["enabled"] = true,
+["priority"] = false,
+["alpha"] = 0,
+["style"] = 3,
+},
+["resting"] = {
+["enabled"] = true,
+["priority"] = false,
+["alpha"] = 0,
+},
+["health"] = {
+["enabled"] = true,
+["priority"] = false,
+["alpha"] = 1,
+["style"] = 2,
+},
+["inVehicle"] = {
+["enabled"] = true,
+["priority"] = false,
+["alpha"] = 0.5355871319770813,
+},
+["housing"] = {
+["enabled"] = true,
+["priority"] = true,
+["alpha"] = 0,
+},
+["casting"] = {
+["enabled"] = true,
+["priority"] = false,
+["alpha"] = 0.5,
+},
+["targetFriendly"] = {
+["enabled"] = true,
+["priority"] = false,
+["alpha"] = 1,
+["softTarget"] = false,
+},
+["interactable"] = {
+["enabled"] = false,
+["priority"] = false,
+["alpha"] = 1,
+["excludeNPCs"] = true,
+},
+},
+["frames"] = {
+["MultiBarRight"] = false,
+["PetActionBar"] = false,
+["MultiBar5"] = false,
+["UtilityCooldownViewer"] = false,
+["MultiBarBottomLeft"] = false,
+["TargetFrame"] = false,
+["BagsBar"] = false,
+["MainActionBar"] = false,
+["FocusFrame"] = false,
+["PetFrame"] = false,
+["MainStatusTrackingBarContainer"] = false,
+["BuffBarCooldownViewer"] = false,
+["ObjectiveTrackerFrame"] = false,
+["MultiBar7"] = false,
+["DamageMeter"] = false,
+["MultiBarLeft"] = false,
+["MinimapCluster"] = false,
+["MicroMenu"] = false,
+["BuffFrame"] = false,
+["PlayerCastingBarFrame"] = false,
+["MultiBar6"] = false,
+["BuffIconCooldownViewer"] = false,
+["DebuffFrame"] = false,
+["PartyFrame"] = false,
+["MultiBarBottomRight"] = false,
+["StanceBar"] = false,
+["PlayerFrame"] = false,
+["EssentialCooldownViewer"] = false,
+},
+["states"] = {
+},
+},
+},
+},
+}
