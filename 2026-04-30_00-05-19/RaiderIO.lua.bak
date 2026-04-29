@@ -1,0 +1,51 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["lock"] = false,
+["hide"] = false,
+},
+}
+RaiderIO_LastCharacter = "eu-Abaray-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Toxicdevilz-blackhand"] = true,
+["eu-Dunymie-draenor"] = true,
+["eu-Riei-argent-dawn"] = true,
+["eu-Howcnsheslap-shattered-hand"] = true,
+["eu-Necrocis-silvermoon"] = true,
+["eu-Icecreamvân-draenor"] = true,
+["eu-Imfkindead-tarren-mill"] = true,
+["eu-Ramierés-blackmoore"] = true,
+["eu-party5-draenor"] = true,
+["eu-Drhess-tarren-mill"] = true,
+["eu-Dilfy-blackmoore"] = true,
+["eu-Peroninik-tarren-mill"] = true,
+["eu-Owein-tarren-mill"] = true,
+["eu-Abaray-draenor"] = true,
+["eu-Cikisann-draenor"] = true,
+["eu-Blizknight-drakthul"] = true,
+["eu-Laoganma-kult-der-verdammten"] = true,
+["eu-Drachwin-blackhand"] = true,
+["eu-Neulingg-twisting-nether"] = true,
+["eu-Monkeymon-twisting-nether"] = true,
+["eu-Jédynka-burning-legion"] = true,
+["eu-Bitonk-uldum"] = true,
+["eu-Foldemort-draenor"] = true,
+["eu-Xillandra-draenor"] = true,
+["eu-Snekobarko-draenor"] = true,
+["eu-Stuntmanjoe-ravencrest"] = true,
+["eu-Aileria-hyjal"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}
