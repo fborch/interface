@@ -1,0 +1,83 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["lock"] = false,
+["hide"] = false,
+},
+}
+RaiderIO_LastCharacter = "eu-Cooriam-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Arsvoker-draenor"] = true,
+["eu-Kellpi-draenor"] = true,
+["eu-Sykfyrlock-draenor"] = true,
+["eu-Isennalock-draenor"] = true,
+["eu-Evokros-twisting-nether"] = true,
+["eu-Lzq-draenor"] = true,
+["eu-Grydesken-draenor"] = true,
+["eu-Nuzlockuedx-dun-modr"] = true,
+["eu-Topasz-draenor"] = true,
+["eu-Chilehrer-thrall"] = true,
+["eu-Rolcse-ragnaros"] = true,
+["eu-Wichiw-draenor"] = true,
+["eu-Solito-draenor"] = true,
+["eu-Lunasanthil-draenor"] = true,
+["eu-Pikkuúkki-draenor"] = true,
+["eu-Droidx-draenor"] = true,
+["eu-Derazmuz-draenor"] = true,
+["eu-Feanir-draenor"] = true,
+["eu-Henirk-draenor"] = true,
+["eu-Wazq-draenor"] = true,
+["eu-Kåtë-draenor"] = true,
+["eu-Granatta-silvermoon"] = true,
+["eu-Terkano-draenor"] = true,
+["eu-Artheemis-draenor"] = true,
+["eu-Natriumm-draenor"] = true,
+["eu-Sabbegabbe-draenor"] = true,
+["eu-Wagwanshaman-draenor"] = true,
+["eu-Mavres-draenor"] = true,
+["eu-Rewes-draenor"] = true,
+["eu-Floodebollen-draenor"] = true,
+["eu-Galydrood-hyjal"] = true,
+["eu-Poonhubz-draenor"] = true,
+["eu-Jazzwell-draenor"] = true,
+["eu-Mòónster-draenor"] = true,
+["eu-Tripod-draenor"] = true,
+["eu-Racistfinlad-kazzak"] = true,
+["eu-party3-draenor"] = true,
+["eu-Veyrai-argent-dawn"] = true,
+["eu-Gundolinbori-silvermoon"] = true,
+["eu-Cátrogue-blackmoore"] = true,
+["eu-Bllacknight-draenor"] = true,
+["eu-Beneviolent-draenor"] = true,
+["eu-Killerb-draenor"] = true,
+["eu-Jjoorddy-draenor"] = true,
+["eu-Philiphvad-draenor"] = true,
+["eu-Isaidfreeze-draenor"] = true,
+["eu-trogue-blackmoore"] = true,
+["eu-Tumerik-draenor"] = true,
+["eu-Warlloock-burning-blade"] = true,
+["eu-Grapha-draenor"] = true,
+["eu-Druidlook-wildhammer"] = true,
+["eu-Gligahulk-tarren-mill"] = true,
+["eu-Bøckdh-hyjal"] = true,
+["eu-Lockheal-draenor"] = true,
+["eu-Skippriest-ravencrest"] = true,
+["eu-Seijõbaesuzy-draenor"] = true,
+["eu-Rajani-argent-dawn"] = true,
+["eu-Fantanova-draenor"] = true,
+["eu-Zeedarya-draenor"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}
