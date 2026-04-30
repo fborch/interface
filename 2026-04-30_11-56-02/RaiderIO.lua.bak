@@ -1,0 +1,32 @@
+
+RaiderIO_Config = {
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+}
+RaiderIO_LastCharacter = "eu-Cooriam-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Banzoro-draenor"] = true,
+["eu-Tepaarta-antonidas"] = true,
+["eu-Borlanko-draenor"] = true,
+["eu-Xzstancedk-tarren-mill"] = true,
+["eu-Stoh-draenor"] = true,
+["eu-Baumqualität-malganis"] = true,
+["eu-Cazxo-nemesis"] = true,
+["eu-Zartmental-tarren-mill"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}
