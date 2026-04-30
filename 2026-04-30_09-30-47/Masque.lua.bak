@@ -1,0 +1,163 @@
+
+MasqueDB = {
+["namespaces"] = {
+},
+["profileKeys"] = {
+["Sedore - Draenor"] = "Default",
+["Decoran - Draenor"] = "Default",
+["Corra - Draenor"] = "Default",
+["Gembank - Stormrage"] = "Default",
+["Corwing - Draenor"] = "Default",
+["Coorlan - Draenor"] = "Default",
+["Cooriam - Draenor"] = "Default",
+["Abaray - Draenor"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["Groups"] = {
+["Blizzard Action Bars_UtilityCooldownViewer"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["HidingBar"] = {
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_MultiBar6"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_StanceBar"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_MultiBar7"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["DandersFrames"] = {
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["DandersFrames_Buffs"] = {
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_ExtraAbilityContainer"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_MultiBar5"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_SpellFlyout"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Baganator"] = {
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_PetBattleFrame"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["HidingBar_DataBroker"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_BuffBarCooldownViewer"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["DandersFrames_Debuffs"] = {
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_EssentialCooldownViewer"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_OverrideActionBar"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_BuffIconCooldownViewer"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_PetBar"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["HidingBar_MinimapButtons"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_PossessBar"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars"] = {
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Baganator_Bag"] = {
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_MultiBarBottomRight"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["HidingBar_CGButtons"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_MultiBarRight"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_MultiBarLeft"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_ActionBar"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Blizzard Action Bars_MultiBarBottomLeft"] = {
+["Upgraded"] = true,
+["SkinID"] = "Blizzard Classic",
+["Inherit"] = false,
+},
+["Masque"] = {
+["SkinID"] = "Blizzard Classic",
+},
+},
+["API_VERSION"] = 110210,
+},
+},
+}
