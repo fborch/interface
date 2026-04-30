@@ -1,0 +1,49 @@
+
+OakLFGSorterDB = {
+["windowHeight"] = 444,
+["searchPersistSignupNote"] = false,
+["themePreset"] = "OAK_TEAL",
+["scale"] = 1,
+["autoOpenSearch"] = true,
+["muteApplicantPing"] = true,
+["autoOpen"] = true,
+["frameUserPlaced"] = true,
+["frameSize"] = {
+1100,
+735.7501220703125,
+},
+["showPartyKeys"] = true,
+["minimapButton"] = {
+["angle"] = 220,
+},
+["theme"] = "classic",
+["browserCategoryOverrides"] = {
+},
+["searchQuickSignupRoles"] = {
+["DAMAGER"] = false,
+["TANK"] = true,
+["HEALER"] = false,
+},
+["framePos"] = {
+"BOTTOMLEFT",
+"BOTTOMLEFT",
+734.66650390625,
+32.2498779296875,
+},
+["showRegionFlags"] = false,
+["searchQuickSignup"] = false,
+["regionFilters"] = {
+},
+["showRegions"] = false,
+["hideNotes"] = false,
+["autoHideFilledRoles"] = false,
+["windowWidth"] = 1100,
+["fontName"] = "quazii",
+["windowOpacity"] = 0.85,
+["browserCategoryKey"] = "DUNGEONS",
+["browserFilters"] = {
+},
+["fontSize"] = 14,
+["themeStyle"] = "MODERN_CLEAN",
+["hideMinimapButton"] = false,
+}
