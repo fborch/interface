@@ -1,0 +1,58 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["lock"] = false,
+["hide"] = false,
+},
+}
+RaiderIO_LastCharacter = "eu-Abaray-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Chopsteweh-draenor"] = true,
+["eu-Unholyfitta-outland"] = true,
+["eu-Arrowwär-draenor"] = true,
+["eu-Frementdh-stormreaver"] = true,
+["eu-Tonnikat-outland"] = true,
+["eu-Phöenix-anubarak"] = true,
+["eu-Meowsovs-draenor"] = true,
+["eu-Triçx-blackhand"] = true,
+["eu-Abaray-draenor"] = true,
+["eu-Dualìpa-kazzak"] = true,
+["eu-Mithril-laughing-skull"] = true,
+["eu-Skallè-draenor"] = true,
+["eu-Clawrage-draenor"] = true,
+["eu-Remmy-sylvanas"] = true,
+["eu-Meatrockét-shadowsong"] = true,
+["eu-Penance-laughing-skull"] = true,
+["eu-Dilgear-draenor"] = true,
+["eu-Coldlove-outland"] = true,
+["eu-Naston-draenor"] = true,
+["eu-Jqo-twisting-nether"] = true,
+["eu-Doctopus-draenor"] = true,
+["eu-Maggé-twisting-nether"] = true,
+["eu-Brewsjane-tarren-mill"] = true,
+["eu-Grizzlyrick-draenor"] = true,
+["eu-Mackadin-draenor"] = true,
+["eu-Fred-boulderfist"] = true,
+["eu-Dzhakali-draenor"] = true,
+["eu-Plannatarium-laughing-skull"] = true,
+["eu-Destrobelle-silvermoon"] = true,
+["eu-Silas-draenor"] = true,
+["eu-Badoonkawoke-draenor"] = true,
+["eu-Earthnos-draenor"] = true,
+["eu-Sandracute-doomhammer"] = true,
+["eu-Giilette-draenor"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}
