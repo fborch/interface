@@ -1,0 +1,45 @@
+
+RaiderIO_Config = {
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+}
+RaiderIO_LastCharacter = "eu-Cooriam-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Hoolfanw-drakthul"] = true,
+["eu-Atoc-draenor"] = true,
+["eu-Lucaswl-draenor"] = true,
+["eu-Fazemaistro-silvermoon"] = true,
+["eu-Nyxin-hyjal"] = true,
+["eu-Unbearable-aggra-português"] = true,
+["eu-Djbear-draenor"] = true,
+["eu-Serenja-blackmoore"] = true,
+["eu-Ibalolamach-draenor"] = true,
+["eu-Stepsorgian-kazzak"] = true,
+["eu-Tdvoin-draenor"] = true,
+["eu-Gourm-blackrock"] = true,
+["eu-Maniacx-twisting-nether"] = true,
+["eu-Felonator-draenor"] = true,
+["eu-Baconrosen-draenor"] = true,
+["eu-Fibulah-draenor"] = true,
+["eu-Darkwortex-silvermoon"] = true,
+["eu-Hjalletralle-draenor"] = true,
+["eu-Mawkz-draenor"] = true,
+["eu-Трейсбинд-gordunni"] = true,
+["eu-Jimbii-draenor"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}
