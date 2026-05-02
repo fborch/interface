@@ -1,0 +1,37 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["lock"] = false,
+["hide"] = false,
+},
+}
+RaiderIO_LastCharacter = "eu-Cooriam-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Minizorne-stormscale"] = true,
+["eu-Chikii-draenor"] = true,
+["eu-Sheyva-aszune"] = true,
+["eu-Aleean-draenor"] = true,
+["eu-Ðarksoul-nozdormu"] = true,
+["eu-Jmoriarty-kazzak"] = true,
+["eu-Dohaerãs-silvermoon"] = true,
+["eu-Djfresh-kazzak"] = true,
+["eu-Reainee-silvermoon"] = true,
+["eu-Mellkerull-draenor"] = true,
+["eu-Demetris-madmortem"] = true,
+["eu-Kloger-draenor"] = true,
+["eu-Anuksedrof-argent-dawn"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}
